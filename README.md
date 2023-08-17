@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an Indie Python Developer with a focus in CyberSecurity Scripting and Ethical Hacking. All coding problems in my public repositories are built from the ground up with code along tutorials or entirely by me. My content is published daily on this page along with other fun side projects, like python built games and some other game-dev adventures. 
+I am an Indie Python Developer with a focus in CyberSecurity Scripting and Ethical Hacking. All coding problems in my public repositories are built from the ground up with code along tutorials or entirely by me. My content is published daily on this page along with other fun side projects, like game-dev creations in python and other coding languages. 
