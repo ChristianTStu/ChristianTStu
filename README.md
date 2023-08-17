@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an Indie Python Developer with a focus in CyberSecurity Scripting and Ethical Hacking and a Masters in Cyber and Information Operations from the University of Arizona. All coding problems in my public repositories are built from the ground up with code along tutorials or entirely by me. My content is published daily on this page along with other fun side projects, like game-dev creations in python and other coding languages. You can follow updates on my [LinkedIn](https://www.linkedin.com/in/christiantstu/) and get in touch with me! 
+I am an Indie Python Developer. I have a focus in CyberSecurity Scripting and Ethical Hacking with a Masters in Cyber and Information Operations from the University of Arizona. All coding problems in my public repositories are built from the ground up with code along tutorials or entirely by me. My content is published daily on this page along with other fun side projects, like game-dev creations in python and other coding languages. You can follow updates on my [LinkedIn](https://www.linkedin.com/in/christiantstu/) and get in touch with me! 
 
 ---
