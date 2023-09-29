@@ -10,8 +10,7 @@ I am an Indie Python Developer with a focus in CyberSecurity Scripting and Ethic
 - 🤔 I’m looking for help with ... Nothing at the moment
 - 💬 Ask me about ... Anything you'd like
 - 📫 How to reach me: ... Drop me a line on LinkedIn
-
--->
+---
 
 
 
