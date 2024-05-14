@@ -1,5 +1,5 @@
 # 🔭 Christian Stuart
-**`Computer Programmer (Solutions Engineer | CyberSecurity)`**
+**`Developer (Solutions Engineer | CyberSecurity)`**
 
 I am an independent Python developer specializing in cybersecurity scripting and ethical hacking, currently pursuing a Master's degree in Cyber and Information Operations at the University of Arizona. My expertise in crafting code from scratch is showcased through comprehensive tutorials and original projects found in my public repositories. In addition to my technical projects, I explore game development using Python, which I share on this platform.
 
