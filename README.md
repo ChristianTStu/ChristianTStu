@@ -16,14 +16,14 @@ To leverage my extensive background in Python development and cybersecurity, com
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Python Fundamentals                           | [Python Fundamentals Projects](https://github.com/ChristianTStu/Python3-Fundamentals)|
-| Steganography and Covert Communication        | [Steganography Project](https://github.com/ChristianTStu/Steganography-Project)|
+| Area of Expertise (Skills)                         | Project or Exercise                                 |
+|--------------------------------------------|----------------------------------------------------|
+| Python Fundamentals                        | [Python Fundamentals Projects](https://github.com/ChristianTStu/Python3-Fundamentals)|
+| Steganography and Covert Communication     | [Steganography Project](https://github.com/ChristianTStu/Steganography-Project)|
 | Network Traffic Monitoring and Attack Detection | [The Creation of Novel Covert Communications](https://github.com/ChristianTStu/Creation-of-Novel-Covert-Communications)|
-| Zero Trust Defense & Architecture             | - [WireGuard Exercise](https://github.com/ChristianTStu/WireGuard-Zero-Trust-Architecture-Exercise)<br> - [ZeroTier Exercise](https://github.com/ChristianTStu/ZeroTier-Software-Switched-Network-Exercise)<br> - [Cloudflare Migration Exercise](https://github.com/ChristianTStu/Cloudflare-Zero-Trust-Migration-Exercise) <br> - [Cloudflare Service to Service Access Exercise](https://github.com/ChristianTStu/Cloudflare-Zero-Trust-Service-to-Service-Access-Exercise)<br> - [ThreatLocker Exercise](https://github.com/ChristianTStu/ThreatLocker-Network-Access-Control-Policy-Configuration-Exercise)<br> - [BitWarden & SSH Secret Handling Exercise](https://github.com/ChristianTStu/Bitwarden-Secrets-Management-and-SSH-Key-Handling-Exercise)<br>|
-| Cyber Operations Infrastructure Design        | SOC Automation Lab|
-| Secure Cloud Infrastructure Deployment Using IaC, Automation, and Scripting | SOC Automation Lab|
+| Zero Trust Defense & Architecture          | - [WireGuard Exercise](https://github.com/ChristianTStu/WireGuard-Zero-Trust-Architecture-Exercise)<br> - [ZeroTier Exercise](https://github.com/ChristianTStu/ZeroTier-Exercise)<br> - [Cloudflare Migration Exercise](https://github.com/ChristianTStu/Cloudflare-Migration-Exercise)<br> - [Cloudflare Service to Service Access Exercise](https://github.com/ChristianTStu/Cloudflare-Service-to-Service-Access-Exercise)<br> - [ThreatLocker Exercise](https://github.com/ChristianTStu/ThreatLocker-Exercise)<br> - [BitWarden & SSH Secret Handling Exercise](https://github.com/ChristianTStu/BitWarden-SSH-Secret-Handling-Exercise)|
+| Cyber Operations Infrastructure Design     | [CyberOps Design Challenge](https://github.com/ChristianTStu/CyberOps-Design-Challenge)|
+| Advanced AWS Infrastructure Deployment     | [Advanced AWS Automation, Scripting, & IaC](https://github.com/ChristianTStu/Advanced-AWS-Automation-Scripting-IaC)|
 
 
 ## Tools
@@ -59,14 +59,6 @@ To leverage my extensive background in Python development and cybersecurity, com
       <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   </div>
 </div>
-
-
-## Projects
-- Steganography Project
-- Creation of Novel Covert Communications
-- Zero Trust Defense Works
-- Cyber Operations Design
-- Secure Cloud Infrastructure Deployment
 ---
 
 
