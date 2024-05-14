@@ -50,8 +50,8 @@ To leverage my extensive background in Python development and cybersecurity, com
 
 ### Completed Certifications
   <div>
-      <img src="https://img.shields.io/badge/-DevOps%2C%20Cloud%2C%20and%20Agile%20Foundations%20by%20IBM-0052CC?&style=for-the-badge&logo=IBM&logoColor=white" />
-      <img src="https://img.shields.io/badge/-Python%203%20Course%20from%20Codecademy-1F1E1E?&style=for-the-badge&logo=Python&logoColor=yellow" />
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/R6DACJ5X9AJ9"><img src="https://img.shields.io/badge/-DevOps%2C%20Cloud%2C%20and%20Agile%20Foundations%20by%20IBM-0052CC?&style=for-the-badge&logo=IBM&logoColor=white" /></a>
+      <a href="https://www.codecademy.com/profiles/ChristianT-Stu/certificates/6c152bd262967f8c941c9707ed636bda"><img src="https://img.shields.io/badge/-Python%203%20Course%20from%20Codecademy-1F1E1E?&style=for-the-badge&logo=Python&logoColor=yellow" /></a>
   </div>
     <h3>In Progress</h3>
   <div>
