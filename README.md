@@ -7,6 +7,8 @@ I am passionate about leveraging my cyber technical knowledge to enhance client 
 
 Feel free to connect with me on LinkedIn for the latest updates or to engage in discussions about challenging coding problems—I am always eager to converse with fellow developers and tech enthusiasts.
 
+[![roadmap.sh](https://roadmap.sh/card/wide/65c9408fd789a518cf2d5551?variant=dark&roadmaps=cyber-security%2Cpython%2Clinux)](https://roadmap.sh)
+
 ---
 <a href="https://www.linkedin.com/in/christiantstu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
