@@ -17,13 +17,14 @@ Below, you can see my progress on Roadmap.sh, tracking my journey through Python
 
 <div align="center">
 
-<img src="https://github.com/ChristianTStu/badge-images/blob/main/devopsEssentialsIBM.png" alt="DevOps Essentials IBM" width="200" style="border: none;">
+<img src="https://raw.githubusercontent.com/ChristianTStu/badge-images/main/devopsEssentialsIBM.png" alt="DevOps Essentials IBM" width="200">
 
-<img src="https://github.com/ChristianTStu/badge-images/blob/main/introductionToCloudComputingIBM.png" alt="Introduction to Cloud Computing IBM" width="200" style="border: none;">
+<img src="https://raw.githubusercontent.com/ChristianTStu/badge-images/main/introductionToCloudComputingIBM.png" alt="Introduction to Cloud Computing IBM" width="200">
 
-<img src="https://github.com/ChristianTStu/badge-images/blob/main/isc2-candidate.png" alt="ISC2 Candidate" width="200" style="border: none;">
+<img src="https://raw.githubusercontent.com/ChristianTStu/badge-images/main/isc2-candidate.png" alt="ISC2 Candidate" width="200">
 
 </div>
+
 
 
 
