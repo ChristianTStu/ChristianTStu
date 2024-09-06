@@ -7,7 +7,7 @@ Below, you can see my progress on Roadmap.sh, tracking my journey through Python
 
 <div align="center">
   
-[![roadmap.sh](https://roadmap.sh/card/wide/65c9408fd789a518cf2d5551?variant=dark&roadmaps=cyber-security%2Cpython%2Clinux)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/65c9408fd789a518cf2d5551?variant=dark" alt="roadmap.sh"/></a>
 
 </div>
 
